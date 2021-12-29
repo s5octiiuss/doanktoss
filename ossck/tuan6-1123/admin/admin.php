@@ -48,9 +48,13 @@
             <div class="col-md-12">
                 <div class="page-header clearfix">
                     <h2 class="pull-left">Quản đồ thể thao</h2>
-                    <a href="insert.php" class="btn btn-primary">Thêm đồ</a>
+
+                    <span>  
+                        <a class="btn btn-primary" href="../../tuan6-1123/index.php">Quay lại </a>
+
                     <span>
                         <a class="btn btn-primary" href="../../../doanktoss/tuan6-1123/index.php">Quay lại </a>
+
                     </span>
                 </div>
                 <?php
