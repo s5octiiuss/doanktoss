@@ -7,4 +7,4 @@
         <p class="description"><?php echo $data['description'] ?></p>
     </div>
     <p class="price"><?php echo $data['price'] ?> vnd</p>
-</div>
+</div>  
